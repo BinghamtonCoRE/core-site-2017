@@ -1,2 +1,2 @@
-# core-site-2017
+# corewebsite
 A new and improved website for CoRE
